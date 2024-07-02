@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(212, 238, 241);
+}
+
+#header{
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(22, 93, 105);
+    font-family: "Open Sans", sans-serif;
+    }
+
+#header_main {
+    text-indent: 20px;
+    line-height: 15px;
+    font-size: 35px;
+    color: rgb(22, 93, 105);
+    font-family: "Open Sans", sans-serif;
+}
+
+#paragraf_main {
+    font-family: "Playwrite DE Grund", cursive;
+    text-indent: 20px;
+    color: rgb(29, 99, 99);
+    
+}
+
+.header_section {
+    color: rgb(22, 93, 105);
+    text-shadow: 3px 2px 6px rgb(112, 163, 177);
+    text-indent: 35px;
+    font-size: 22px;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+li, #section1_main {
+    text-indent: 35px;
+    line-height: 20px;
+    color: rgb(29, 99, 99);
+    font-family: "Open Sans", sans-serif;
+}
+
+#section2_main {
+    text-indent: 35px;
+    color: rgb(29, 99, 99);
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+}
+
+footer {
+    background-color: rgb(252, 252, 252);
+    font-style: italic;
+    text-align: center;
+}
